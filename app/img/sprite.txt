@@ -1,0 +1,52 @@
+.bg-computer_code {
+    width: 64px; height: 64px;
+    background: url('css_sprites.png') -10px -10px;
+}
+
+x
+.bg-expand_horz {
+    width: 64px; height: 64px;
+    background: url('css_sprites.png') -94px -10px;
+}
+
+x
+.bg-facebook {
+    width: 32px; height: 32px;
+    background: url('css_sprites.png') -178px -94px;
+}
+
+x
+.bg-google+ {
+    width: 32px; height: 32px;
+    background: url('css_sprites.png') -10px -178px;
+}
+
+x
+.bg-screwdriver {
+    width: 64px; height: 64px;
+    background: url('css_sprites.png') -10px -94px;
+}
+
+x
+.bg-skype {
+    width: 32px; height: 32px;
+    background: url('css_sprites.png') -62px -178px;
+}
+
+x
+.bg-thumbs_up_alt {
+    width: 64px; height: 64px;
+    background: url('css_sprites.png') -94px -94px;
+}
+
+x
+.bg-vk {
+    width: 32px; height: 32px;
+    background: url('css_sprites.png') -114px -178px;
+}
+
+x
+.bg-window_settings {
+    width: 64px; height: 64px;
+    background: url('css_sprites.png') -178px -10px;
+}
